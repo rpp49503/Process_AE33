@@ -21,5 +21,7 @@ Simply click "Run" and the "Load_AE33" function will prompt the user to select t
 
 If log files are not present, ATN2 cannot be calculated, and the variables denoted with "*" cannot be calculated. The integrated loading compensation parameter will be equivalent to the form derived using cumulative flows and default FVRF for speed. The "CalcIntegratedProps" function input can be changed to calculated the modified, improved form described in Poland et al. (2025), though the computation time will significantly increase. For more specific information regarding individual functions, see the comments within the code markdown for each.
 
+If data processed using this package is published, please cite the code using DOI: 10.1080/02786826.2025.2587817.
+
 Contact Ryan Poland (rpp49503@uga.edu) or Geoffrey Smith (geosmith@uga.edu)
 for any additional questions or help.
